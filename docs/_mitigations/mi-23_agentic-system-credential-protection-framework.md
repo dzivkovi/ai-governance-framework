@@ -11,6 +11,8 @@ nist-sp-800-53r5_references:
   - au-6   # AU-6 Audit Record Review, Analysis, And Reporting
 atr_references:
   - ATR-2026-00113  # Credential Theft via Agent Channel
+canada-regulations_references:
+  - osfi-trb-2026-07-agent-access   # non-human identities, just-in-time access, short-lived credentials
 mitigates:
   - ri-29  # Agent-Mediated Credential Discovery and Harvesting
   - ri-24  # Agent Action Authorization Bypass

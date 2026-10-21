@@ -17,6 +17,10 @@ atr_references:
   - ATR-2026-00012  # Unauthorized Tool Call
   - ATR-2026-00040  # Agent Privilege Escalation
   - ATR-2026-00098  # Unauthorized Financial Action by Agent
+canada-regulations_references:
+  - osfi-trb-2026-07-governance          # limits on autonomy
+  - osfi-trb-2026-07-development-change  # AI harnessing and agent action control
+  - osfi-trb-2026-07-agent-access        # least privilege, scoped permissions, allow-lists, access recertification
 mitigates:
   - ri-24  # Agent Action Authorization Bypass
   - ri-18  # Model Overreach / Expanded Use

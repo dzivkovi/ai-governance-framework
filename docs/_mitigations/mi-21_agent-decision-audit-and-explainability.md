@@ -13,6 +13,10 @@ eu-ai-act_references:
   - c9-s1-a72  # IX.S1.A72: Post-Market Monitoring by Providers
   - c3-s2-a13  # III.S2.A13: Transparency and Provision of Information to Deployers
   - c9-s4-a86  # IX.S4.A86: Right to Explanation of Individual Decision-Making
+canada-regulations_references:
+  - osfi-trb-2026-07-integrity           # auditable documentation of how AI outputs inform outcomes
+  - osfi-trb-2026-07-development-change  # monitor AI agent actions
+  - osfi-trb-2026-07-agent-access        # log and review agent activity and tool usage
 nist-sp-800-53r5_references:
   - au-2  # AU-2 Event Logging
   - au-3  # AU-3 Content Of Audit Records
