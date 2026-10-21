@@ -16,6 +16,8 @@ nist-sp-800-53r5_references:
   - si-13  # SI-13 Predictable Failure Prevention
   - ir-4   # IR-4 Incident Handling
   - ca-7   # CA-7 Authorization
+canada-regulations_references:
+  - osfi-trb-2026-07-resilience-third-party  # AI failure and outage scenarios; continuity measures
 mitigates:
   - ri-7  # Availability of Foundational Model
 related_mitigations:

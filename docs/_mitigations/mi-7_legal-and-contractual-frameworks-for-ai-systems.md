@@ -21,6 +21,9 @@ nist-sp-800-53r5_references:
   - sr-3   # SR-3 Supply Chain Controls And Processes
   - sr-5   # SR-5 Acquisition Strategies, Tools, And Methods
   - sr-8   # SR-8 Notification Agreements
+canada-regulations_references:
+  - osfi-trb-2026-07-governance              # oversight of AI-related third-party dependencies
+  - osfi-trb-2026-07-resilience-third-party  # TPRM covers AI usage; contractual starting point for AI-use notification
 mitigates:
   - ri-1   # Information Leaked To Hosted Model
   - ri-8   # Tampering With the Foundational Model

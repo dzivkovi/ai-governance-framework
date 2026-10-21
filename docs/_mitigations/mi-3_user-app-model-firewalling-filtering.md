@@ -15,6 +15,9 @@ nist-sp-800-53r5_references:
   - si-4   # SI-4 System Monitoring
   - si-10  # SI-10 Information Input Validation
   - si-15  # SI-15 Information Output Filtering
+canada-regulations_references:
+  - osfi-trb-2026-07-integrity      # monitor prompts and outputs for anomalies and policy violations
+  - osfi-trb-2026-07-cyber-ops      # prompt monitoring and output filtering
 mitigates:
   - ri-7   # Availability of Foundational Model
   - ri-10  # Prompt Injection

@@ -23,6 +23,9 @@ nist-sp-800-53r5_references:
   - sc-28  # SC-28 Protection Of Information AT Rest
   - si-4   # SI-4 System Monitoring
   - si-20  # SI-20 Tainting
+canada-regulations_references:
+  - osfi-trb-2026-07-integrity      # prohibit sensitive data use in public or unapproved AI tools
+  - osfi-trb-2026-07-cyber-ops      # AI-focused incident response (partial: data leakage incidents)
 mitigates:
   - ri-1  # Information Leaked To Hosted Model
 related_mitigations:

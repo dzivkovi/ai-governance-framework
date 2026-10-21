@@ -11,6 +11,8 @@ iso-42001_references:
 eu-ai-act_references:
   - c3-s2-a13  # III.S2.A13: Transparency and Provision of Information to Deployers
   - c9-s4-a86  # IX.S4.A86: Right to Explanation of Individual Decision-Making
+canada-regulations_references:
+  - osfi-trb-2026-07-integrity      # auditable record of how AI outputs informed outcomes
 nist-sp-800-53r5_references:
   - au-10  # AU-10 Non-repudiation
   - sa-8   # SA-8 Security And Privacy Engineering Principles

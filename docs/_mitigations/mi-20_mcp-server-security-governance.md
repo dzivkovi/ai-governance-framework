@@ -13,6 +13,10 @@ nist-sp-800-53r5_references:
   - sr-5   # SR-5 Acquisition Strategies, Tools, And Methods
 atr_references:
   - ATR-2026-00010  # Malicious Content in MCP Tool Response
+canada-regulations_references:
+  - osfi-trb-2026-07-development-change      # tools as controlled technology assets
+  - osfi-trb-2026-07-resilience-third-party  # third-party risk management covers AI usage
+  - osfi-trb-2026-07-cyber-ops               # AI-focused incident response (partial: MCP server compromise)
 mitigates:
   - ri-26  # MCP Server Supply Chain Compromise
   - ri-8   # Tampering With the Foundational Model

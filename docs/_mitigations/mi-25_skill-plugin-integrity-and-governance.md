@@ -10,6 +10,10 @@ nist-sp-800-53r5_references:
   - sr-5   # SR-5 Acquisition Strategies, Tools, and Methods
   - si-7   # SI-7 Software, Firmware, and Information Integrity
   - cm-7   # CM-7 Least Functionality
+canada-regulations_references:
+  - osfi-trb-2026-07-development-change      # tools as controlled technology assets
+  - osfi-trb-2026-07-resilience-third-party  # third-party risk management covers AI usage
+  - osfi-trb-2026-07-cyber-ops               # red-team testing of skills
 mitigates:
   - ri-30  # Skill/Plugin Supply Chain Compromise
   - ri-8   # Tampering with the Foundational Model

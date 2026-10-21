@@ -12,6 +12,8 @@ atr_references:
   - ATR-2026-00011  # Instruction Injection via Tool Output
   - ATR-2026-00012  # Unauthorized Tool Call
   - ATR-2026-00013  # Tool-Driven Server-Side Request Forgery
+canada-regulations_references:
+  - osfi-trb-2026-07-agent-access   # restrict tool usage via allow-lists and API gateways
 mitigates:
   - ri-25  # Tool Chain Manipulation and Injection
   - ri-10  # Prompt Injection

@@ -10,6 +10,10 @@ iso-42001_references:
 eu-ai-act_references:
   - c3-s2-a9   # III.S2.A9: Risk Management System
   - c3-s2-a15  # III.S2.A15: Accuracy, Robustness and Cybersecurity
+canada-regulations_references:
+  - osfi-trb-2026-07-development-change      # change management; testing under normal and stressed conditions, edge cases
+  - osfi-trb-2026-07-cyber-ops               # adversarial test scenarios
+  - osfi-trb-2026-07-resilience-third-party  # test AI failure and outage scenarios
 nist-sp-800-53r5_references:
   - ca-2   # CA-2 Control Assessments
   - ca-6   # CA-6 Authorization

@@ -20,6 +20,10 @@ nist-sp-800-53r5_references:
   - ra-10  # RA-10 Threat Hunting
   - si-4   # SI-4 System Monitoring
   - si-7   # SI-7 Software, Firmware, And Information Integrity
+canada-regulations_references:
+  - osfi-trb-2026-07-integrity           # monitor prompts and outputs
+  - osfi-trb-2026-07-agent-access        # log and review agent activity and tool usage
+  - osfi-trb-2026-07-cyber-ops           # anomaly detection; AI telemetry into security operations
 mitigates:
   - ri-1   # Information Leaked To Hosted Model
   - ri-5   # Foundation Model Versioning

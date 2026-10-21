@@ -9,6 +9,10 @@ iso-42001_references:
   - A-9-2    # ISO 42001: Processes for responsible use of AI systems
 eu-ai-act_references:
   - c3-s2-a14  # III.S2.A14: Human Oversight
+canada-regulations_references:
+  - osfi-trb-2026-07-integrity           # human oversight with accountability for material decisions
+  - osfi-trb-2026-07-development-change  # approval checkpoints for high-risk actions
+  - osfi-trb-2026-07-agent-access        # approval checkpoints for high-impact actions
 nist-sp-800-53r5_references:
   - ac-3   # AC-3 Access Enforcement
   - ac-5   # AC-5 Separation of Duties

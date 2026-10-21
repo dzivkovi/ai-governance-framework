@@ -20,6 +20,8 @@ nist-sp-800-53r5_references:
   - sa-22  # SA-22 Unsupported System Components
   - sr-4   # SR-4 Provenance
   - sr-8   # SR-8 Notification Agreements
+canada-regulations_references:
+  - osfi-trb-2026-07-development-change      # AI components as controlled assets; change management
 mitigates:
   - ri-5  # Foundation Model Versioning
   - ri-6  # Non-Deterministic Behaviour
